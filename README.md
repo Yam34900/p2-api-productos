@@ -3,7 +3,8 @@
 API REST hecha con Node.js y Express que permite administrar productos (CRUD).
 Responde en JSON y usa los códigos de estado HTTP correctos. Los datos se guardan en memoria.
 
-**Equipo:** _(escribe aquí los nombres)_
+**Alumno:** Felix Yamir Diaz Aldama 
+ (trabajo individual)
 **Materia:** Programación Web · Grupo 4X7B
 
 ## Instalación
